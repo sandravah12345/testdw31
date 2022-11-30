@@ -12,5 +12,7 @@
     //
     echo "cette fois, mon PHP est <strong> interprété</strong";
     ?>
+
+    <p>Nouvelle ligne</p>
 </body>
 </html>
